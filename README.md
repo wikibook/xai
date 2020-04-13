@@ -97,6 +97,6 @@ Coding Facial Expressions with Gabor Wavelets, 3rd IEEE International Conference
 
 |페이지|내용|정정사항|제보|
 |---|:----:|:----:|---:|
-|36|우항에 있는 변수 x_s는 관심 있는 피쳐들이다. x_s^i는 관심 없는 피쳐들의 집합이다.|x_s^i 는 x_c^i여야 관심 없는 피처가 됩니다. 부호 변동이 필요합니다.|최혁근님|
+|36|우항에 있는 변수 x_s는 관심 있는 피쳐들이다. x_s^i는 관심 없는 피쳐들의 집합이다.|x_s^i 는 x_c^i여야 관심 없는 피처가 됩니다. 수식 변동이 필요합니다.|최혁근님|
 
 
