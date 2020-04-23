@@ -36,7 +36,7 @@ XAI 실전 연습을 위한 데이터 예제.
 
 ### 1.3. 기타
 
-8번 칼럼의 국세청 업종 코드는 이곳(https://www.venturein.or.kr/popup/BusinessCode.do)에서 확인할 수 있다.
+8번 칼럼의 국세청 업종 코드는 ![이곳](https://www.venturein.or.kr/popup/BusinessCode.do)에서 확인할 수 있다.
 
 Copyright(c)2019 Jaehyun Ahn All rights reserved. 
 
