@@ -99,6 +99,10 @@ Coding Facial Expressions with Gabor Wavelets, 3rd IEEE International Conference
 |36|보충|f^_{x_s} (x_s) = E_{x_c} [f^(x_s, x_c)] = Integral [ f^(x_s, x_c) dP(x_c) ]"는 x_s에 관한 식 같으나, 두번째 E_{x_c}[...]에서 x_c에 대한 기대값으로 바뀌었는데, 보충 설명이 필요합니다.|s에 대한 PDP를 그리기 위해서는 x_s 피처를 고정시키고, x_c에 대한 모든 값을 모델에 반영하여 평균(Expectation)하게 되면 피처 x_s가 모델 f^에 미치는 영향력을 판단할 수 있습니다.따라서 공식 왼쪽부터 각 3항은 x_s의 피처 영향력을 구하기 위한 공식이고, 좌항에서 두 번째, 세 번째 항은 피처 x_s가 모델 f^에 미치는 영향력을 측정하기 위한 average function입니다. 이 공식은 x_s에 대한 주변확률 분포(marginal probability density) 전개입니다.|익명님|
 |36|정정|우항에 있는 변수 x_s는 관심 있는 피쳐들이다. x_s^i는 관심 없는 피쳐들의 집합이다.|x_s^i 는 x_c^i여야 관심 없는 피처가 됩니다. 수식 변동이 필요합니다.|최혁근님|
 
+## 5. 알림
+
+<<XAI 설명 가능한 인공지능, 인공지능을 해부하다>> 도서가 2020년 세종도서 학술부문 **기술과학도서 72 종 중 하나**로 선정되었습니다. 감사합니다. (링크: http://bookapply.kpipa.or.kr/front/board/noticeView.do?seq=48)
+
 <hr>
 
 Copyright(c)2019 Jaehyun Ahn, Wikibooks All rights reserved. 
