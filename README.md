@@ -105,4 +105,4 @@ Coding Facial Expressions with Gabor Wavelets, 3rd IEEE International Conference
 
 <hr>
 
-Copyright(c)2019 Jaehyun Ahn, Wikibooks All rights reserved. 
+Copyright(c)2019 Jaehyun Ahn and Wikibooks All rights reserved. 
