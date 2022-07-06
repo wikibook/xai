@@ -16,7 +16,7 @@ gast==0.2.2
 google-pasta==0.1.4
 grpcio==1.19.0
 h5py==2.9.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.8
 ipykernel==5.1.0
 ipython==7.3.0
